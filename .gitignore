@@ -1,0 +1,9 @@
+main.c
+*.o
+*.a
+*~
+#*#
+*.gcno
+*.gcda
+unit_tests
+securize
